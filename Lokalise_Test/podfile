@@ -1,0 +1,10 @@
+
+platform :ios,  '12.0'
+
+target 'Lokalise_Test' do
+
+  use_frameworks!
+  pod 'Lokalise', '~> 0.10.0'
+
+
+end
